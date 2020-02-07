@@ -1,0 +1,39 @@
+                   INSTRUCTIONS FOR USING GITHUB 
+************************************************************************
+ Warning: Please Work Directly on the file called Project_02
+ and upload all function files seperately. Do no create individual live
+ script files from your 
+************************************************************************
+
+To Download files to work on:
+-----------------------------
+-> Click on the green "clone or download" button
+-> Click on "Download Zip"
+-> Work directly on the 
+  
+To Upload Your Work Through GitHub Website:
+-------------------------------------------
+ 1) Check the gray button that says "Branch: [branch_name]"
+      (Note: [branch_name] refers to the name of the branch that
+      you are currently in)
+  2) If the [branch_name] = the excersize you are currently working
+    on, then precede to step , else go on to step 3.
+  3) Click on the gray button that says "Branch: [branch_name]"
+  4) Type on the search bar that appears the excersize the you are
+      working on in the format "Exercise #"
+  5) If a branch already exists, it will appear, click on it.
+     Else, a button will show up that reads "Creare branch: ____ 
+     from master." Click on it!
+  6) Now that you are in the correct branch, click "upload files"
+  7) Drag and drop the files that you want to upload or click on
+     "choose files" for a popup window that you can use to navigate
+     through your files.
+  8) In the smaller txt box, add a quick comment o describing what
+      you are updating.
+  9) Click green button "commit changes"
+  10) You are done!! Awesome!!
+
+If you think you are a big boy and wanna do it command line style:
+------------------------------------------------------------------
+"Good Luck!"
+        -Bad guys from taken    
